@@ -1,1 +1,1 @@
-# clashroyaleapi-client-ts
+# clashroyale-discord-bot
