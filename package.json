@@ -1,0 +1,31 @@
+{
+    "name": "clashroyale-discord-bot",
+    "version": "1.0.0",
+    "description": "Clash Royale Discord Bot",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ./index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Cruzadera/clashroyale-discord-bot.git"
+    },
+    "author": "Cruzadera",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Cruzadera/clashroyale-discord-bot/issues"
+    },
+    "homepage": "https://github.com/Cruzadera/clashroyale-discord-bot#readme",
+    "dependencies": {
+        "@app-config/main": "^2.8.6",
+        "axios": "^1.2.2",
+        "config": "^3.3.8",
+        "discord.js": "^14.7.1",
+        "dotenv": "^16.0.3",
+        "undici": "^5.14.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.31.0"
+    }
+}
